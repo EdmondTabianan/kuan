@@ -1,0 +1,9 @@
+C:\Users\Zaki Bjorn\OneDrive\Desktop\OOP Finals Draft\Kuan\Kuan\bin\Debug\Kuan.exe
+C:\Users\Zaki Bjorn\OneDrive\Desktop\OOP Finals Draft\Kuan\Kuan\bin\Debug\Kuan.pdb
+C:\Users\Zaki Bjorn\OneDrive\Desktop\OOP Finals Draft\Kuan\Kuan\obj\x86\Debug\Kuan.exe
+C:\Users\Zaki Bjorn\OneDrive\Desktop\OOP Finals Draft\Kuan\Kuan\obj\x86\Debug\Kuan.pdb
+C:\Users\Administrator\Downloads\final-main\Kuan\Kuan\obj\x86\Debug\Kuan.exe
+C:\Users\Administrator\Downloads\final-main\Kuan\Kuan\obj\x86\Debug\Kuan.pdb
+C:\Users\Administrator\Downloads\final-main\Kuan\Kuan\bin\Debug\Kuan.exe
+C:\Users\Administrator\Downloads\final-main\Kuan\Kuan\bin\Debug\Kuan.pdb
+C:\Users\Administrator\Downloads\final-main\Kuan\Kuan\obj\x86\Debug\Kuan.csprojResolveAssemblyReference.cache
